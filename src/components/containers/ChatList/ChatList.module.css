@@ -1,0 +1,14 @@
+.button {
+  width: 198px;
+}
+
+form {
+  width: 75%;
+  margin-bottom: 56px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
